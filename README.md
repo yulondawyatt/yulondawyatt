@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yulonda.j.wyatt
+- 👋 Hi, I’m Yulonda Joy Wyatt
 - 👀 I have many interests and hobbies, the most prevalent are playing my favorite songs on my keyboard, crocheting, reading, and of course coding.  
 - 🌱 I’m currently learning Server-side (backend) Javascript.
 - 💞️ I’m looking to collaborate on projects in which I can provide my education and experience.
